@@ -11,7 +11,7 @@
 - **Dev Tools, Cloud & DevOps**: Git, Linux, Docker, Shell Script, VM, Wireshark, AWS, GCP
 
 ### 💬 Connect with Me
-<a href="https://www.linkedin.com/in/shih-ju-hsu-a1a2981b0/" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/shih-ju-hsu-a1a2981b0/" rel="nofollow noreferrer" target="_blank">
   <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 </a>
 
