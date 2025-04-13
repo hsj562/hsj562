@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm James.
 ### 👨🏻‍💻 About Me
 - CS student at USC
-- Web Developer
+- Software Developer
 - Machine Learning enthusiast
 
 ### 🛠 Tech Stack
